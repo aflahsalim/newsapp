@@ -81,8 +81,9 @@ class _BreakingNews extends StatelessWidget {
                     width: MediaQuery.of(context).size.width * 0.5,
                     margin: const EdgeInsets.only(right: 10),
                     child: InkWell(
-                      onTap: (){
-                        Navigator.pushNamed(context, ArticleScreen.routeName, arguments: articles[index]);
+                      onTap: () {
+                        Navigator.pushNamed(context, ArticleScreen.routeName,
+                            arguments: articles[index]);
                       },
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
@@ -94,7 +95,11 @@ class _BreakingNews extends StatelessWidget {
                           Text(
                             articles[index].title,
                             maxLines: 2,
-                            style: Theme.of(context).textTheme.bodyLarge!.copyWith(fontWeight: FontWeight.bold, height: 1.5),
+                            style: Theme.of(context)
+                                .textTheme
+                                .bodyLarge!
+                                .copyWith(
+                                    fontWeight: FontWeight.bold, height: 1.5),
                           ),
                           const SizedBox(height: 5),
                           Text(
