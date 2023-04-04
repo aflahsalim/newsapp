@@ -1,0 +1,21 @@
+com.example.newsapp-debug-0 C:\Aflah\projects\newsapp backup\android\app\src\debug\res
+com.example.newsapp-main-1 C:\Aflah\projects\newsapp backup\android\app\src\main\res
+com.example.newsapp-pngs-2 C:\Aflah\projects\newsapp backup\build\app\generated\res\pngs\debug
+com.example.newsapp-resValues-3 C:\Aflah\projects\newsapp backup\build\app\generated\res\resValues\debug
+com.example.newsapp-rs-4 C:\Aflah\projects\newsapp backup\build\app\generated\res\rs\debug
+com.example.newsapp-mergeDebugResources-5 C:\Aflah\projects\newsapp backup\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.newsapp-mergeDebugResources-6 C:\Aflah\projects\newsapp backup\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.newsapp-merged_res-7 C:\Aflah\projects\newsapp backup\build\app\intermediates\merged_res\debug
+com.example.newsapp-packaged_res-8 C:\Aflah\projects\newsapp backup\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.newsapp-packaged_res-9 C:\Aflah\projects\newsapp backup\build\firebase_auth\intermediates\packaged_res\debug
+com.example.newsapp-packaged_res-10 C:\Aflah\projects\newsapp backup\build\firebase_core\intermediates\packaged_res\debug
+com.example.newsapp-packaged_res-11 C:\Aflah\projects\newsapp backup\build\firebase_storage\intermediates\packaged_res\debug
+com.example.newsapp-packaged_res-12 C:\Aflah\projects\newsapp backup\build\fluttertoast\intermediates\packaged_res\debug
+com.example.newsapp-jetified-window-java-1.0.0-beta04-13 C:\Users\aflah\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.newsapp-jetified-play-services-base-18.0.1-14 C:\Users\aflah\.gradle\caches\transforms-3\082fa8f1e076fd76c98f4d760b4e67b1\transformed\jetified-play-services-base-18.0.1\res
+com.example.newsapp-browser-1.4.0-15 C:\Users\aflah\.gradle\caches\transforms-3\392643a040d0a7ef9b2ed4537c4719d5\transformed\browser-1.4.0\res
+com.example.newsapp-core-1.6.0-16 C:\Users\aflah\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.newsapp-jetified-annotation-experimental-1.1.0-17 C:\Users\aflah\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.newsapp-jetified-firebase-common-20.3.0-18 C:\Users\aflah\.gradle\caches\transforms-3\8d6c7e10f65750ef3948181416e437b1\transformed\jetified-firebase-common-20.3.0\res
+com.example.newsapp-jetified-window-1.0.0-beta04-19 C:\Users\aflah\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.newsapp-jetified-play-services-basement-18.1.0-20 C:\Users\aflah\.gradle\caches\transforms-3\f46b9773282b7a3d38863a46e0e0b5d1\transformed\jetified-play-services-basement-18.1.0\res
